@@ -181,7 +181,7 @@ staging_events is empty	COPY failed	Check IAM Role and S3 paths
 ✅ Designed an optimized Star Schema for analytics
 ✅ Implemented a robust ETL pipeline for Sparkify
 
-This project demonstrates key skills in Data Engineering, Cloud Computing (AWS Redshift, S3, IAM), and SQL Query Optimization.
+This project of mines demonstrates key skills in Data Engineering, Cloud Computing (AWS Redshift, S3, IAM), and SQL Query Optimization.
 📌 References
 
     Amazon Redshift Docs
